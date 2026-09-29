@@ -1,4 +1,5 @@
 Check and return temperature by digital sensor DS1820 connected by 1-Wire line. If you use more than one sensor you need to use the OneWire and the DallasTemperature libraries.
+
 ⚙️ Технические характеристики DS18B20
 Параметр	Значение
 Диапазон измерений	−55…+125 °C
