@@ -11,7 +11,7 @@ Check and return temperature by digital sensor DS1820 connected by 1-Wire line. 
    └──────┘    │
                └── резистор подтяжки к +5V (один на всю шину)
 
-                     ┌─────┐
+      ┌─────┐
       │ 1 2 3│
       └──┴─┴─┘
        │  │  │
