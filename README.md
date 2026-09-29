@@ -9,8 +9,3 @@ Check and return temperature by digital sensor DS1820 connected by 1-Wire line. 
                                         │         │DS18B20│
    Arduino GND ●────────────────────────┴─────────┤  GND  │
                                                   └───────┘
-      ┌─────┐
-      │ 1 2 3│
-      └──┴─┴─┘
-       │  │  │
-      GND DQ VDD
